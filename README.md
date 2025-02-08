@@ -1,4 +1,4 @@
-# Conversor de Temperatura - Anime Dark Fofo
+# Conversor de Temperatura
 
 Um conversor de temperatura estilizado com um design inspirado em um tema de anime. Inclui uma imagem de fundo de anime para tornar a experiência mais agradável.
 
